@@ -1,7 +1,7 @@
 # MarkdownPreviewer
 A GitHub flavoured Markdown Previewer.
 #
-The functionality is imported from @markedjs, for more information checkout : https://github.com/markedjs/marked
+The functionality is imported from @ markedjs, for more information checkout : https://github.com/markedjs/marked
 ##
 ## A Preview of the editor :
 
